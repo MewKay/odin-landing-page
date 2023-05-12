@@ -19,3 +19,9 @@ ul {
 .links {
   text-decoration: none;
 }
+
+.logo {
+  font-size: 24px;
+  font-weight: bolder;
+  color: #F9FAF8;
+}

@@ -30,3 +30,13 @@ ul {
   font-weight: bolder;
   color: #F9FAF8;
 }
+
+.first-container {
+  display: flex;
+  margin: 70px 0;
+}
+
+.content-left,
+.content-right {
+  flex: 1;
+}

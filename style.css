@@ -10,3 +10,11 @@ ul {
   justify-content: space-between;
   align-items: center;
 }
+
+ul {
+  list-style: none;
+}
+
+.links {
+  text-decoration: none;
+}

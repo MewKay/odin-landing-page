@@ -86,4 +86,11 @@ button {
   background-color: #F9FAF8;
   box-shadow: -200px 0 0 0 #F9FAF8,
               200px 0 0 0 #F9FAF8;
+  text-align: center;
+  color: #1F2937;
+}
+
+h3 {
+  font-size: 36px;
+  font-weight: 800;
 }

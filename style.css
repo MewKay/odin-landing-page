@@ -120,4 +120,7 @@ h3 {
   background-color: #E5E7EB;
   box-shadow: -200px 0 0 0 #E5E7EB,
               200px 0 0 0 #E5E7EB;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }

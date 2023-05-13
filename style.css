@@ -94,3 +94,20 @@ h3 {
   font-size: 36px;
   font-weight: 800;
 }
+
+.info-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 70px;
+}
+
+.infos {
+  margin: 20px 30px;
+}
+
+.infos > img {
+  border: 5px solid #3882F6;
+  border-radius: 10px;
+  height: 300px;
+  width: 200px;
+}

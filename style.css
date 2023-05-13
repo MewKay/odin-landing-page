@@ -65,3 +65,8 @@ button {
 .content-left button {
   border: none;
 }
+
+.content-right {
+  background-color: grey;
+  color: #E5E7EB;
+}

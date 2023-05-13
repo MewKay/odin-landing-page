@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,700;1,300&display=swap');
+
 body {
   min-height: 100vh;
   background-color: #1F2937;
@@ -139,7 +141,7 @@ h3 {
 
 .quote {
   font-size: 36px;
-  font-style: italic ;
+  font-style: italic;
 }
 
 .quote-author {

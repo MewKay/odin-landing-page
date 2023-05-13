@@ -36,10 +36,12 @@ ul {
   flex: 1;
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .main-container > * {
   flex: 1;
+  max-width: 1100px;
 }
 
 .first-container {
@@ -84,8 +86,7 @@ button {
 
 .second-container {
   background-color: #F9FAF8;
-  box-shadow: -200px 0 0 0 #F9FAF8,
-              200px 0 0 0 #F9FAF8;
+  padding: 0 100vw;
   text-align: center;
   color: #1F2937;
 }
@@ -118,8 +119,7 @@ h3 {
 
 .third-container {
   background-color: #E5E7EB;
-  box-shadow: -200px 0 0 0 #E5E7EB,
-              200px 0 0 0 #E5E7EB;
+  padding: 0 100vw;
   display: flex;
   justify-content: center;
   align-items: center;

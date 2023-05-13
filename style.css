@@ -157,3 +157,15 @@ h3 {
   justify-content: center;
   align-items: center;
 }
+
+.sign-up {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  min-width: 1100px;
+  min-height: 150px;
+  border-radius: 20px;
+  margin: 100px 0;
+  padding: 0 200px; 
+  display: flex;
+  justify-content: space-between;
+}

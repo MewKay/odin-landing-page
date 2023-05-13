@@ -73,8 +73,9 @@ button {
   color: #F9FAF8;
   font-size: 20px;
   font-weight: bold;
+  width: 140px;
+  height: 40px;
   border-radius: 7px;
-  padding: 10px 35px;
 }
 
 .content-left button {
@@ -169,3 +170,8 @@ h3 {
   display: flex;
   justify-content: space-between;
 }
+
+.sign-up .title {
+  font-size: 30px;
+  font-weight: bold;
+} 

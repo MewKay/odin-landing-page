@@ -97,7 +97,7 @@ h3 {
 
 .info-container {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
   margin-bottom: 70px;
 }
 
@@ -105,6 +105,7 @@ h3 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  flex-basis: 160px;
   gap: 8px;
 }
 

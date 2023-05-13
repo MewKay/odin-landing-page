@@ -5,6 +5,7 @@ body {
   flex-direction: column;
   font-family: Roboto, sans-serif;
   padding: 0 200px;
+  margin: 0;
 }
 
 .header, 
@@ -69,4 +70,10 @@ button {
 .content-right {
   background-color: grey;
   color: #E5E7EB;
+}
+
+.second-container {
+  background-color: #F9FAF8;
+  box-shadow: -200px 0 0 0 #F9FAF8,
+              200px 0 0 0 #F9FAF8;
 }

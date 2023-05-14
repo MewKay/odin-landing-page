@@ -95,7 +95,6 @@ button {
 
 .second-container {
   background-color: #F9FAF8;
-  padding: 0 100vw;
   text-align: center;
   color: #1F2937;
 }
@@ -129,7 +128,6 @@ h3 {
 
 .third-container {
   background-color: #E5E7EB;
-  padding: 0 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -159,7 +157,6 @@ h3 {
 
 .fourth-container {
   background-color: #F9FAF8;
-  padding: 0 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -185,6 +182,12 @@ h3 {
 
 .sign-up button {
   border: 2px solid #F9FAF8;
+}
+
+.second-container,
+.third-container,
+.fourth-container {
+  padding: 0 40vw;
 }
 
 .footer {
